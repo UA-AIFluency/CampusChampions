@@ -55,3 +55,11 @@
 Created: 06/16/2026  (C. Lizárraga) <br>
 Updated: frequently 
 
+***
+
+<p><img src="https://responsibleai.arizona.edu/sites/default/files/Responsible-Artificial-Intelligence_WEB_0.png" width=300> <br>
+
+[**Arizona Institute for Artificial Intelligence (AI2S)**](https://responsibleai.arizona.edu/ai2s). 
+[**Office of Responsible Artificial Intelligence (ORAI)**](https://responsibleai.arizona.edu/). **The University of Arizona.** 2026<br>
+
+<p><img src="https://github.com/UA-AI2S/AI-Info-Sessions/blob/main/images/cc-by-nc-sa_icon.png" width=100> <br> Creative Commons License.
