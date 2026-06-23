@@ -1,0 +1,70 @@
+10:01:57	 From Carlos Lizárraga : The meeting is being recorded for playback, for this who were not able to attend this session
+10:02:07	 From Rupa Murali : Reacted to "The meeting is being recorded for playback, for this who were not able to attend this session" with 👍
+10:02:16	 From Randi Weinstein : Reacted to "The meeting is being..." with 👍
+10:02:30	 From Grant Batchelder : Reacted to "The meeting is being recorded for playback, for this who were not able to attend this session" with 👍
+10:07:05	 From Teresa Cortéz : Was that 240+ applications for the Campus Champions cohort, or apps in total?
+10:07:34	 From Rupa Murali : Replying to "Was that 240+ applications for the Campus Champions cohort, or apps in total?"
+
+Apps in total I believe
+10:07:39	 From Teresa Cortéz : Reacted to "Apps in total I believe" with 👍🏽
+10:07:43	 From Jonathan (he/his) : Replying to "Was that 240+ applications for the Campus Champions cohort, or apps in total?"
+
+yea - he said across the 3 programs
+10:07:50	 From Teresa Cortéz : Reacted to "yea - he said across the 3 programs" with 👍🏽
+10:08:54	 From Teresa Cortéz : Please provide the link in the chat, thanks!
+10:09:28	 From Carlos Lizárraga : https://github.com/UA-AI2S/AI-Champions/wiki/Program-Development
+10:11:39	 From Gina Jones : I don't have one yet
+10:11:42	 From Rupa Murali : I am yet to create one
+10:11:44	 From Jerry Ford : I don't have it yet
+10:11:47	 From Jonathan (he/his) : i dont have one
+10:11:48	 From Aneta Kielar : I don’t have one
+10:11:52	 From Grant Batchelder : I almost have one... 2 minutes
+10:11:53	 From Randi Weinstein : I just create one over the weekend for another project.
+10:11:56	 From Patrick Maes : I will need to create one.
+10:11:56	 From Deb Gorombei : I need to create
+10:12:01	 From Laurie Sheldon : I do not have a GitHub account
+10:12:05	 From Jerry Ford : can you also post link to the document you are going through now
+10:13:36	 From Teresa Cortéz : Reacted to "can you also post link to the document you are going through now" with 💯
+10:13:47	 From Brett Michael Ratchford : Replying to "can you also post link to the document you are going through now"
+
+https://github.com/UA-AI2S/AI-Champions/wiki/Program-Development
+10:14:22	 From Randi Weinstein : If I already have a GitHub account with my personal email, should I create a new one with my arizona.edu email?
+10:14:54	 From Teresa Cortéz : How do we know if we correctly created the GitHub account?
+10:15:32	 From Rupa Murali : I think I have created it.  What should I be seeing?
+10:17:03	 From Rupa Murali : What is the name of the repository?
+10:19:10	 From Randi Weinstein : I created a new one with my arizona.edu email.
+10:24:28	 From Margie Arnett, UAZ, CTIPH : I didn’t see how you got to the mark down file & am not on that screen
+10:24:48	 From Grant Batchelder : Replying to "I didn’t see how you got to the mark down file & am not on that screen"
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+10:25:10	 From Margie Arnett, UAZ, CTIPH : Reacted to "https://docs.github...." with 👍🏻
+10:25:10	 From Teresa Cortéz : Reacted to "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" with 👍🏽
+10:36:58	 From Teresa Cortéz : Is this session being recorded? Just want to make sure I can go back and rewatch a few steps if needed!
+10:37:05	 From Rupa Murali : Reacted to "
+Is this session being recorded? Just want to make sure I can go back and rewatch a few steps if needed!" with 👍
+10:39:54	 From Katy Prudic (she/her) : The UA Library also has help with GitHub https://lib.arizona.edu/research/data. Jeff Oliver (jcoliver@arizona.edu) can be another resource for you or your students
+10:41:55	 From Patrick Maes : I cannot see the edit option either.
+10:41:59	 From Liang Zhang : There is no "Edit" on my page
+10:42:01	 From Rupa Murali : i don't have it either
+10:42:16	 From Margie Arnett, UAZ, CTIPH : How do we get to the participant page to edit, or the modules?
+10:43:39	 From Teresa Cortéz : Reacted to "There is no "Edit" on my page" with 👍🏽
+10:43:53	 From Carlos Lizárraga : Site repository: https://github.com/UA-AI2S/AI-Champions/wiki
+10:44:04	 From Randi Weinstein : Reacted to "Site repository: htt..." with 👍
+10:48:30	 From Deb Gorombei : Hi, How do we clone your program wiki so we can see it in our wiki list? Thank you!
+10:52:21	 From Carlos Lizárraga : Generative IA at the UofA: https://genai.arizona.edu/
+10:54:14	 From Randi Weinstein : Are these models likely to change with new models being introduced?
+10:55:11	 From Teresa Cortéz : Can we go back here: https://github.com/UA-AI2S/AI-Champions/wiki/Participants-Page so we can all post our participant pages?
+10:55:32	 From Teresa Cortéz : Or, Your Github repo URL?
+10:56:06	 From Teresa Cortéz : We are sharing our Your Github repo URL, correct?
+10:57:59	 From Aneta Kielar : It would be very helpful to have written instructions what to create on guthub and set-up different folders and files. If the instructions could be emailed or posted somewhere that would be very helpful.
+10:59:10	 From Randi Weinstein : So we use your wiki as a guide and create content on our wiki. The only thing we need to post on your repository, once you set it up, is our GitHub repository URL and then track our progress?
+10:59:33	 From Gina Jones : Reacted to "So we use your wiki as a guide and create content on our wiki. The only thing we need to post on your repository, once you set it up, is our GitHub repository URL and then track our progress?" with 👍
+10:59:53	 From Grant Batchelder : Replying to "So we use your wiki as a guide and create content on our wiki. The only thing we need to post on your repository, once you set it up, is our GitHub repository URL and then track our progress?"
+
+also discussions are on that one, ours don't have discussion
+11:00:03	 From Randi Weinstein : Reacted to "also discussions are..." with 👍
+11:02:59	 From Jerry Ford : Reacted to "So we use your wiki ..." with 👍
+11:04:48	 From Margie Arnett, UAZ, CTIPH : Reacted to "It would be very hel..." with 👍🏻
+11:05:49	 From Margie Arnett, UAZ, CTIPH : Thank you!
+11:06:02	 From Katy Prudic (she/her) : Thank you!
+11:06:12	 From Grant Batchelder : Thank you! Good job, very pedagogically sound modules, love it!
